@@ -1,2 +1,16 @@
-# information-knowledge-guide
-Arabic Research Framework Guide for Information and Knowledge Technologies
+# المرشد الإرشادي لكتابة الإطار العام للدراسة
+## قسم المعلومات وتقنيات المعرفة
+
+### ملفات المشروع
+- `app.py`: التطبيق الرئيسي
+- `requirements.txt`: المكتبات اللازمة
+- `README.md`: تعليمات المشروع
+
+### النشر على Streamlit Community Cloud
+1. ارفع الملفات الثلاثة إلى مستودع GitHub.
+2. افتح https://streamlit.io/cloud وسجل الدخول عبر GitHub.
+3. اختر إنشاء تطبيق جديد.
+4. اختر المستودع `information-knowledge-guide`.
+5. اجعل الملف الرئيسي `app.py` ثم اضغط Deploy.
+
+هذه نسخة إرشادية قائمة على أسئلة وقواعد أولية وليست ذكاء اصطناعيا توليديا. تحقق من المراجع والقرارات المنهجية مع المشرف العلمي.
